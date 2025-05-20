@@ -8,7 +8,7 @@ import numpy as np
 import google.generativeai as genai
 
 # Set your Gemini API key (replace with your actual key)
-genai.configure(api_key="AIzaSyAS_aAklwH82GdSUZxB1BdgEgPk8bdF-SE")
+genai.configure(api_key="your own api key")
 
 
 st.title('RAG Chat with Uploaded Documents')
